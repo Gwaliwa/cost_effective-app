@@ -1,0 +1,4 @@
+Intervention_Name,Context/Country,CEA_Type,Total_Cost_USD_per_year,Number_of_children,Impact_per_child_SD,Threshold_SD_per_100USD_(optional),Notes,Cost_per_child_USD,SD_per_100USD,Cost_per_1SD_USD
+"ATI-ASR (Prospective, India-based impact)",West Ghana (using India RCT impact),Prospective_Pilot,74800.0,12000,0.28,1.4,Budgeted ATI-ASR cost; impact from remedial tutoring by volunteers in India.,6.233333333333333,4.491978609625669,22.26190476190476
+"ATI-ASR (Prospective, Kenya-based impact)",West Ghana (using Kenya RCT impact),Prospective_Pilot,74800.0,12000,0.18,1.4,Budgeted ATI-ASR cost; impact from tracking-by-ability program in Kenya.,6.233333333333333,2.8877005347593583,34.62962962962963
+"ATI-ASR (Retrospective, actual pilot)",West Ghana,Retrospective_Pilot,139482.13,12000,0.19,1.4,Actual ATI-ASR pilot cost and 0.190 SD impact in West Ghana.,11.623510833333334,1.6346179973018764,61.17637280701755
